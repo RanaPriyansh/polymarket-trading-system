@@ -1,0 +1,2080 @@
+{
+  "timestamp": "2026-03-17T13:41:17.016714",
+  "total_markets": 88,
+  "analyses": [
+    {
+      "market": "Will Donald Trump be inaugurated for his second term as President of the USA on Inauguration Day, January 20th, 2021?",
+      "slug": "will-donald-trump-be-inaugurated-for-his-second-term-as-president-of-the-usa-on-inauguration-day-january-20th-2021",
+      "volume": 30207577.413504,
+      "liquidity": 43.468918,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999997937333554
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999876240013
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($30,207,577) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499999669973369,
+      "yes_price": 2.0626664460443175e-08,
+      "no_price": 0.9999999793733355,
+      "spread": 0.999999958746671
+    },
+    {
+      "market": "Will Trump win the 2020 U.S. presidential election?",
+      "slug": "will-trump-win-the-2020-us-presidential-election",
+      "volume": 10802601.987023,
+      "liquidity": 68.283267,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.249999956356965
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999997381417903
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,802,602) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499999301711441,
+      "yes_price": 4.3643034980462864e-08,
+      "no_price": 0.999999956356965,
+      "spread": 0.9999999127139301
+    },
+    {
+      "market": "Will 100 million people have received a dose of an approved COVID-19 vaccine in the US by April 1, 2021?",
+      "slug": "will-100-million-people-have-received-a-dose-of-an-approved-covid-19-vaccine-in-the-us-by-april-1-2021",
+      "volume": 7116763.863114,
+      "liquidity": 83.003653,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2499999095485839
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999457291503
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($7,116,764) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499998552777342,
+      "yes_price": 9.045141609489103e-08,
+      "no_price": 0.9999999095485839,
+      "spread": 0.9999998190971677
+    },
+    {
+      "market": "Will Donald Trump be President of the USA on March 31, 2021?",
+      "slug": "will-donald-trump-be-president-of-the-usa-on-march-31-2021",
+      "volume": 6253674.443228,
+      "liquidity": 1.442885,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2499999094631377
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999456778826
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($6,253,674) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499998551410202,
+      "yes_price": 9.05368623123752e-08,
+      "no_price": 0.9999999094631377,
+      "spread": 0.9999998189262753
+    },
+    {
+      "market": "Will Andrew Yang win the Democratic primary for Mayor of New York City in 2021?",
+      "slug": "will-andrew-yang-win-the-democratic-primary-for-mayor-of-new-york-city-in-2021",
+      "volume": 1258244.218619,
+      "liquidity": 2045.016719,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999990207523046
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999412451383
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,258,244) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499998433203688,
+      "yes_price": 9.792476954804243e-08,
+      "no_price": 0.9999999020752305,
+      "spread": 0.999999804150461
+    },
+    {
+      "market": "Will Trump Pardon Himself in His First Term?",
+      "slug": "will-trump-pardon-himself-in-his-first-term",
+      "volume": 566518.152363,
+      "liquidity": 99.338559,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999989689875232
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999381392514
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($566,518) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499998350380037,
+      "yes_price": 1.0310124768476219e-07,
+      "no_price": 0.9999998968987523,
+      "spread": 0.9999997937975047
+    },
+    {
+      "market": "Superbowl 55: Kansas City Chiefs vs Tampa Bay Buccaneers",
+      "slug": "will-the-kansas-city-chiefs-win-superbowl-55",
+      "volume": 649402.092029,
+      "liquidity": 40.005841,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999854974160707
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999912984496424
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($649,402) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499976795865713,
+      "yes_price": 1.4502583929193812e-06,
+      "no_price": 0.9999985497416071,
+      "spread": 0.9999970994832141
+    },
+    {
+      "market": "Will ETH be above $1,500 on January 27th?",
+      "slug": "will-eth-be-above-1-500-on-january-27th",
+      "volume": 759196.237185,
+      "liquidity": 6.8e-05,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999630094267067
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999977805656024
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($759,196) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6499940815082731,
+      "yes_price": 3.69905732934354e-06,
+      "no_price": 0.9999963009426707,
+      "spread": 0.9999926018853413
+    },
+    {
+      "market": "Will Trump win any of Pennsylvania, Arizona or Georgia?",
+      "slug": "will-trump-win-any-of-pennsylvania-arizona-or-georgia",
+      "volume": 1376323.081579,
+      "liquidity": 2.945378,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24998743401021495
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.299992460406129
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,376,323) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.649979894416344,
+      "yes_price": 1.2565989785062253e-05,
+      "no_price": 0.999987434010215,
+      "spread": 0.9999748680204299
+    },
+    {
+      "market": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?",
+      "slug": "will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
+      "volume": 22067.475119,
+      "liquidity": 0.179651,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($22,067)",
+          "confidence": 0.6,
+          "potential_return": 0.29999898891794746
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999993933507685
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5999983822687159,
+      "yes_price": 1.0110820525225415e-06,
+      "no_price": 0.9999989889179475,
+      "spread": 0.999997977835895
+    },
+    {
+      "market": "Will Mike Tyson win his boxing match against Roy Jones Jr?",
+      "slug": "will-mike-tyson-win-his-boxing-match-against-roy-jones",
+      "volume": 39083.392778,
+      "liquidity": 1.8e-05,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($39,083)",
+          "confidence": 0.6,
+          "potential_return": 0.29999370729702585
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999962243782155
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5999899316752413,
+      "yes_price": 6.2927029741444165e-06,
+      "no_price": 0.9999937072970259,
+      "spread": 0.9999874145940517
+    },
+    {
+      "market": "Will any art piece on Superrare sell for more than $100k before 2021?",
+      "slug": "will-any-art-piece-on-superrare-sell-for-more-than-100k-before-2021",
+      "volume": 44204.852746,
+      "liquidity": 5.6e-05,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($44,205)",
+          "confidence": 0.6,
+          "potential_return": 0.2999903665137452
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999942199082471
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5999845864219924,
+      "yes_price": 9.633486254782601e-06,
+      "no_price": 0.9999903665137452,
+      "spread": 0.9999807330274904
+    },
+    {
+      "market": "Will Donald Trump pardon Julian Assange?",
+      "slug": "will-donald-trump-pardon-julian-assange",
+      "volume": 270406.028611,
+      "liquidity": 0.000121,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999999407164636
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999999644298786
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499999905146342,
+      "yes_price": 5.928353636489953e-09,
+      "no_price": 0.9999999940716464,
+      "spread": 0.9999999881432928
+    },
+    {
+      "market": "Will Joe Biden be inaugurated as President of the USA on January 20th, 2021?",
+      "slug": "will-joe-biden-be-inaugurated-as-president-of-the-usa-on-january-20th-2021-1",
+      "volume": 8582604.040652,
+      "liquidity": 40.886614,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999891744488
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($8,582,604) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499999891744488,
+      "yes_price": 0.9999999819574147,
+      "no_price": 1.804258530658439e-08,
+      "spread": 0.9999999639148294
+    },
+    {
+      "market": "Will $BTC break $20k before 2021?",
+      "slug": "will-btc-break-20k-before-2021",
+      "volume": 1467610.681134,
+      "liquidity": 1170.706736,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999333284132
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,467,611) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499999333284131,
+      "yes_price": 0.9999998888806887,
+      "no_price": 1.1111931131046978e-07,
+      "spread": 0.9999997777613774
+    },
+    {
+      "market": "Will $BTC break $50k before April 1st, 2021?",
+      "slug": "will-btc-break-50k-before-april-1st-2021",
+      "volume": 1164000.478137,
+      "liquidity": 238.094982,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999979006466443
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,164,000) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499997900646645,
+      "yes_price": 0.999999650107774,
+      "no_price": 3.4989222598985624e-07,
+      "spread": 0.9999993002155481
+    },
+    {
+      "market": "Donald Trump federally charged by February 20th?",
+      "slug": "donald-trump-federally-charged-by-february-20th",
+      "volume": 155062.394444,
+      "liquidity": 9708.484873,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999984207653045
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999999052459183
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499997473224487,
+      "yes_price": 1.5792346954890777e-07,
+      "no_price": 0.9999998420765305,
+      "spread": 0.999999684153061
+    },
+    {
+      "market": "Will Donald Trump formally concede the 2020 US Election before December 1st, 2020?",
+      "slug": "will-donald-trump-formally-concede-the-2020-us-election-before-december-1st-2020",
+      "volume": 454342.990794,
+      "liquidity": 8688.076983,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999984097392544
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999990458435527
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499997455582807,
+      "yes_price": 1.5902607454513276e-07,
+      "no_price": 0.9999998409739255,
+      "spread": 0.9999996819478509
+    },
+    {
+      "market": "Will DeFi Dominance on CoinGecko be above 10% on March 15, 2021?",
+      "slug": "will-de-fi-dominance-on-coin-gecko-be-above-10-on-march-15-2021",
+      "volume": 131944.146992,
+      "liquidity": 1871.70284,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999983439366896
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999990063620136
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499997350298703,
+      "yes_price": 1.6560633103806414e-07,
+      "no_price": 0.9999998343936689,
+      "spread": 0.9999996687873378
+    },
+    {
+      "market": "Will there be a federal charge filed against Hunter Biden before 2021?",
+      "slug": "will-there-be-a-federal-charge-filed-against-hunter-biden-before-2021",
+      "volume": 127476.154269,
+      "liquidity": 0.13149,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999976342398636
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999998580543918
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499996214783781,
+      "yes_price": 2.3657601363117614e-07,
+      "no_price": 0.9999997634239863,
+      "spread": 0.9999995268479727
+    },
+    {
+      "market": "Will Joe Biden be President of the USA on March 1, 2021?",
+      "slug": "will-joe-biden-be-president-of-the-usa-on-march-1-2021",
+      "volume": 5603735.590555,
+      "liquidity": 0.104587,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999994856589179
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($5,603,736) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499994856589179,
+      "yes_price": 0.9999991427648631,
+      "no_price": 8.572351369235186e-07,
+      "spread": 0.9999982855297262
+    },
+    {
+      "market": "Will the Ethereum 2.0 Genesis Event happen successfully on December 1st, 2020?",
+      "slug": "will-the-ethereum-20-genesis-event-happen-successfully-on-december-1st-2020",
+      "volume": 560270.423771,
+      "liquidity": 7.877976,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999994812105699
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($560,270) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.54999948121057,
+      "yes_price": 0.9999991353509499,
+      "no_price": 8.646490501333051e-07,
+      "spread": 0.9999982707018997
+    },
+    {
+      "market": "Will Tesla announce a Bitcoin purchase before March 1, 2021?",
+      "slug": "will-tesla-announce-a-bitcoin-purchase-before-march-1-2021",
+      "volume": 1278837.735124,
+      "liquidity": 0.000168,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999993719003536
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,278,838) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499993719003535,
+      "yes_price": 0.999998953167256,
+      "no_price": 1.0468327440282725e-06,
+      "spread": 0.9999979063345119
+    },
+    {
+      "market": "Will Trump complete his first term?",
+      "slug": "will-trump-complete-his-first-term",
+      "volume": 692311.018313,
+      "liquidity": 3.3e-05,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999935683488477
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($692,311) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499993568348848,
+      "yes_price": 0.9999989280581413,
+      "no_price": 1.0719418587670583e-06,
+      "spread": 0.9999978561162826
+    },
+    {
+      "market": "Will the Senate convict Donald Trump on impeachment by April 29, 2021?",
+      "slug": "will-the-senate-convict-donald-trump-on-impeachment-before-june-1-2021",
+      "volume": 449246.109862,
+      "liquidity": 0.03717,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2499995957365021
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999975744190127
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499993531784033,
+      "yes_price": 4.042634979071517e-07,
+      "no_price": 0.9999995957365021,
+      "spread": 0.9999991914730042
+    },
+    {
+      "market": "Will the US have fewer than 50,000 new COVID-19 cases on any day before March 15, 2021?",
+      "slug": "will-the-us-have-fewer-than-50-000-new-covid-19-cases-on-any-day-before-march-15-2021-1",
+      "volume": 1283321.582851,
+      "liquidity": 1.277538,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999987958514953
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,283,322) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499987958514954,
+      "yes_price": 0.9999979930858255,
+      "no_price": 2.0069141744918747e-06,
+      "spread": 0.999995986171651
+    },
+    {
+      "market": "Which party will control the senate?",
+      "slug": "which-party-will-control-the-senate",
+      "volume": 304097.469926,
+      "liquidity": 6.263726,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999922959954893
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999995377597293
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499987673592782,
+      "yes_price": 7.704004510665058e-07,
+      "no_price": 0.9999992295995489,
+      "spread": 0.9999984591990978
+    },
+    {
+      "market": "Will Donald Trump's Twitter account be active on March 1, 2021?",
+      "slug": "will-donald-trump-s-twitter-account-be-active-on-march-1-2021",
+      "volume": 135580.143423,
+      "liquidity": 0.000147,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999913759245718
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999994825554743
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499986201479314,
+      "yes_price": 8.624075428119822e-07,
+      "no_price": 0.9999991375924572,
+      "spread": 0.9999982751849144
+    },
+    {
+      "market": "$2000 stimulus checks by February 28, 2021?",
+      "slug": "2000-stimulus-checks-by-february-28-2021",
+      "volume": 488335.604514,
+      "liquidity": 0.000207,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999912396636387
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999947437981833
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499985983461821,
+      "yes_price": 8.760336361258536e-07,
+      "no_price": 0.9999991239663639,
+      "spread": 0.9999982479327278
+    },
+    {
+      "market": "Will Coinbase begin publicly trading before Jan 1, 2021?",
+      "slug": "will-coinbase-begin-publicly-trading-before-jan-1-2021",
+      "volume": 116803.377183,
+      "liquidity": 0.367501,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999897548049044
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999938528829423
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499983607687846,
+      "yes_price": 1.0245195095681696e-06,
+      "no_price": 0.9999989754804904,
+      "spread": 0.9999979509609809
+    },
+    {
+      "market": "Will Conor McGregor win his UFC 257 match on January 23?",
+      "slug": "will-conor-mcgregor-win-his-ufc-257-match-on-january-23",
+      "volume": 103855.267262,
+      "liquidity": 3.6e-05,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999896651154285
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999993799069257
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499983464184686,
+      "yes_price": 1.033488457154569e-06,
+      "no_price": 0.9999989665115429,
+      "spread": 0.9999979330230857
+    },
+    {
+      "market": "Will Donald Trump attend Joe Biden\u2019s inauguration ceremony in person?",
+      "slug": "will-donald-trump-attend-joe-biden-s-inauguration-ceremony-in-person",
+      "volume": 192840.874875,
+      "liquidity": 54.798207,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999805792252755
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999988347535166
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499968926760441,
+      "yes_price": 1.9420774724493336e-06,
+      "no_price": 0.9999980579225276,
+      "spread": 0.9999961158450552
+    },
+    {
+      "market": "Will Donald Trump tweet announcing that he won the election before November 5th 2020?",
+      "slug": "will-donald-trump-tweet-announcing-that-he-won-the-election-before-november-5th-2020",
+      "volume": 127490.669491,
+      "liquidity": 3.295904,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2499980308738015
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999881852428084
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499968493980824,
+      "yes_price": 1.9691261984867876e-06,
+      "no_price": 0.9999980308738015,
+      "spread": 0.9999960617476029
+    },
+    {
+      "market": "Which party will win Arizona in the 2020 Presidential Election?",
+      "slug": "which-party-will-win-arizona-in-the-2020-presidential-election",
+      "volume": 1506034.746644,
+      "liquidity": 5.470261,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999956842977019
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,506,035) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499956842977018,
+      "yes_price": 0.9999928071628366,
+      "no_price": 7.192837163404889e-06,
+      "spread": 0.9999856143256731
+    },
+    {
+      "market": "Will the Green Bay Packers or the Tampa Bay Buccaneers win the NFC Championship?",
+      "slug": "will-the-green-bay-packers-or-the-tampa-bay-buccaneers-win-the-nfc-championship",
+      "volume": 149008.388504,
+      "liquidity": 0.004038,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24997339028064988
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999840341683899
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5499574244490398,
+      "yes_price": 2.6609719350117012e-05,
+      "no_price": 0.9999733902806499,
+      "spread": 0.9999467805612998
+    },
+    {
+      "market": "Will $BTC break $25k before March 1st?",
+      "slug": "will-btc-break-25k-before-march-1st",
+      "volume": 565291.198531,
+      "liquidity": 6e-06,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2997844924702507
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($565,291) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5497844924702506,
+      "yes_price": 0.9996408207837512,
+      "no_price": 0.00035917921624884907,
+      "spread": 0.9992816415675023
+    },
+    {
+      "market": "Will Joe Biden be officially inaugurated as President in-person outside the US capitol on January 20th, 2021?",
+      "slug": "will-joe-biden-be-officially-inaugurated-as-president-in-person-outside-the-us-capitol-on-january-20th-2021",
+      "volume": 874854.208294,
+      "liquidity": 2e-06,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (98.6%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.2%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29174470988249995
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($874,854) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5417447098824999,
+      "yes_price": 0.9862411831375,
+      "no_price": 0.013758816862500045,
+      "spread": 0.972482366275
+    },
+    {
+      "market": "Will Kim Kardashian or Kanye West file for divorce before March 1, 2021?",
+      "slug": "will-kim-kardashian-or-kanye-west-file-for-divorce-before-march-1-2021",
+      "volume": 40940.904626,
+      "liquidity": 962.430075,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "High Yes price (100.0%) with low volume ($40,941)",
+          "confidence": 0.7,
+          "potential_return": 0.2
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999990693672857
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.4999999069367286,
+      "yes_price": 0.9999998448945476,
+      "no_price": 1.5510545233269986e-07,
+      "spread": 0.9999996897890953
+    },
+    {
+      "market": "Will Coinbase delist Ripple (XRP) before they begin publicly trading?",
+      "slug": "will-coinbase-delist-ripple-xrp-before-they-begin-publicly-trading",
+      "volume": 176805.568527,
+      "liquidity": 9.3e-05,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999998450604438
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.44999984506044377,
+      "yes_price": 0.9999997417674064,
+      "no_price": 2.582325936767114e-07,
+      "spread": 0.9999994835348127
+    },
+    {
+      "market": "Will Bitcoin or Tesla have a higher market cap on March 1, 2021?",
+      "slug": "will-bitcoin-or-tesla-have-a-higher-market-cap-on-march-1-2021",
+      "volume": 154400.485529,
+      "liquidity": 2.687799,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999942479150976
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.4499994247915098,
+      "yes_price": 0.9999990413191829,
+      "no_price": 9.586808171163785e-07,
+      "spread": 0.9999980826383659
+    },
+    {
+      "market": "Will indoor dining be prohibited in NYC at any point before 2021?",
+      "slug": "will-indoor-dining-be-prohibited-in-nyc-at-any-point-before-2021",
+      "volume": 195834.468106,
+      "liquidity": 3.1e-05,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999993431109119
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.44999934311091194,
+      "yes_price": 0.9999989051848532,
+      "no_price": 1.09481514672141e-06,
+      "spread": 0.9999978103697065
+    },
+    {
+      "market": "Which party will win the U.S. Senate special election in Georgia? (Loeffler - R vs Warnock - D)",
+      "slug": "which-party-will-win-the-u-s-senate-special-election-in-georgia-loeffler-r-vs-warnock-d",
+      "volume": 237532.290807,
+      "liquidity": 45.370082,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999934041772264
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.4499993404177226,
+      "yes_price": 0.9999989006962045,
+      "no_price": 1.0993037955191074e-06,
+      "spread": 0.9999978013924089
+    },
+    {
+      "market": "Who will the world's richest person be on February 27, 2021?",
+      "slug": "who-will-the-world-s-richest-person-be-on-february-27-2021",
+      "volume": 182205.347577,
+      "liquidity": 1723.058544,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (100.0%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999853270192788
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.44998532701927885,
+      "yes_price": 0.999974873994359,
+      "no_price": 2.3783930096204203e-05,
+      "spread": 0.9999510900642629
+    },
+    {
+      "market": "Will President Trump be suspended from Twitter before April 1, 2021?",
+      "slug": "will-president-trump-be-suspended-from-twitter-before-april-1-2021",
+      "volume": 160336.519211,
+      "liquidity": 1e-06,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (99.7%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.4%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2981298836912647
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.4481298836912647,
+      "yes_price": 0.9968831394854412,
+      "no_price": 0.0031168605145588633,
+      "spread": 0.9937662789708823
+    },
+    {
+      "market": "Will Donald Trump be impeached again before the end of his term?",
+      "slug": "will-donald-trump-be-impeached-again-before-the-end-of-his-term",
+      "volume": 269766.48903,
+      "liquidity": 3e-06,
+      "opportunities": [
+        {
+          "type": "short_yes",
+          "reason": "Very high Yes price (96.6%) with high volume",
+          "confidence": 0.8,
+          "potential_return": 0.15
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (93.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2798978725513434
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.4298978725513434,
+      "yes_price": 0.9664964542522391,
+      "no_price": 0.03350354574776089,
+      "spread": 0.9329929085044781
+    },
+    {
+      "market": "Which party will win Pennsylvania in the 2020 presidential election?",
+      "slug": "which-party-will-win-pennsylvania-in-the-2020-presidential-election",
+      "volume": 1421876.344845,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,421,876) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.35,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Which party will win Georgia in the 2020 presidential election?",
+      "slug": "which-party-will-win-georgia-in-the-2020-presidential-election",
+      "volume": 1253550.166932,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,253,550) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.35,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Joe Biden get Coronavirus before the election?",
+      "slug": "will-joe-biden-get-coronavirus-before-the-election",
+      "volume": 32257.445115,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($32,257)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?",
+      "slug": "will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
+      "volume": 43279.456005,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($43,279)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?",
+      "slug": "will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
+      "volume": 21881.05833,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($21,881)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Drake release a new studio album before the end of 2020?",
+      "slug": "will-drake-release-a-new-studio-album-before-the-end-of-2020",
+      "volume": 31841.386373,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($31,841)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Dharma\u2019s Phase 1 Retroactive UNI Distribution proposal pass?",
+      "slug": "will-dharma-s-phase-1-retroactive-uni-distribution-proposal-pass",
+      "volume": 35661.941003,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($35,662)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Khabib win his UFC 254 Fight?",
+      "slug": "will-khabib-win-his-ufc-254-fight",
+      "volume": 17497.115264,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($17,497)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "What will the average sale price of the Jordan 1 Mocha on StockX be on Christmas Day?",
+      "slug": "what-will-the-average-sale-price-of-the-jordan-1-mocha-on-stock-x-be-on-christmas-day",
+      "volume": 21681.539389,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($21,682)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Jake Paul win his boxing match against Nate Robinson?",
+      "slug": "will-jake-paul-win-his-boxing-match-against-nate-robinson",
+      "volume": 22955.070649,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($22,955)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Donald Trump pardon Edward Snowden?",
+      "slug": "will-donald-trump-pardon-edward-snowden",
+      "volume": 47949.009134,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($47,949)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Titans or the Ravens win their January 10th NFL Wild Card matchup?",
+      "slug": "will-the-titans-or-the-ravens-win-their-january-10th-nfl-wild-card-matchup",
+      "volume": 20653.74779,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($20,654)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will an official Presidential inauguration take place in-person outside the US Capitol on January 20th, 2021?",
+      "slug": "will-an-official-presidential-inauguration-take-place-in-person-outside-the-us-capitol-on-january-20th-2021",
+      "volume": 41274.849967,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($41,275)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Rams or the Packers win their Jan 16th matchup?",
+      "slug": "will-the-rams-or-the-packers-win-their-jan-16th-matchup",
+      "volume": 4747.920188,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($4,748)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Buccaneers or the Saints win their Jan 17th matchup?",
+      "slug": "will-the-buccaneers-or-the-saints-win-their-jan-17th-matchup",
+      "volume": 21200.67645,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($21,201)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Ravens or Bills win their January 16th matchup?",
+      "slug": "will-the-ravens-or-bills-win-their-january-16th-matchup",
+      "volume": 9820.220409,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (0.0%) with low volume ($9,820)",
+          "confidence": 0.6,
+          "potential_return": 0.3
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Buffalo Bills or the Kansas City Chiefs win the AFC Championship?",
+      "slug": "will-the-buffalo-bills-or-the-kansas-city-chiefs-win-the-afc-championship",
+      "volume": 64464.326718,
+      "liquidity": 0.00385,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29999943605198964
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.29999943605198964,
+      "yes_price": 9.399133505981278e-07,
+      "no_price": 0.9999990600866494,
+      "spread": 0.9999981201732988
+    },
+    {
+      "market": "Will YFI total supply be greater than 30,000 by March 15th?",
+      "slug": "will-yfi-total-supply-be-greater-than-30-000-by-march-15th",
+      "volume": 56433.345679,
+      "liquidity": 3.513259,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999993700402704
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.2999993700402704,
+      "yes_price": 0.9999989500671174,
+      "no_price": 1.0499328826691727e-06,
+      "spread": 0.9999979001342347
+    },
+    {
+      "market": "How many confirmed Coronavirus cases will there be at EOY in the USA?",
+      "slug": "how-many-confirmed-coronavirus-cases-will-there-be-at-eoy-in-the-usa",
+      "volume": 72112.484035,
+      "liquidity": 1.937475,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (100.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2999813225822208
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.2999813225822208,
+      "yes_price": 0.999968870970368,
+      "no_price": 3.1129029632008394e-05,
+      "spread": 0.999937741940736
+    },
+    {
+      "market": "Which party will win Florida in the 2020 presidential election?",
+      "slug": "which-party-will-win-florida-in-the-2020-presidential-election",
+      "volume": 243053.252109,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Who will win the 2020 MLB World Series?",
+      "slug": "who-will-win-the-2020-mlb-world-series-1",
+      "volume": 107601.586423,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will BTC break $15k before 2021?",
+      "slug": "will-btc-break-15k-before-2021-1",
+      "volume": 224706.488667,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Which party will win Texas in the 2020 presidential election?",
+      "slug": "which-party-will-win-texas-in-the-2020-presidential-election",
+      "volume": 194336.890284,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Which party will win North Carolina in the 2020 presidential election?",
+      "slug": "which-party-will-win-north-carolina-in-the-2020-presidential-election",
+      "volume": 244840.590497,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Associated Press publish a tweet calling the 2020 US presidential election before November 6?",
+      "slug": "will-the-associated-press-publish-a-tweet-calling-the-2020-us-presidential-election-before-november-6",
+      "volume": 261432.197705,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will LaMelo Ball be the first pick in the 2020 NBA draft?",
+      "slug": "will-lamelo-ball-be-the-first-pick-in-the-2020-nba-draft",
+      "volume": 143938.782615,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "What will Airbnb's market cap be at close on its 1st day publicly trading?",
+      "slug": "what-will-airbnb-s-market-cap-be-at-close-on-its-1st-day-publicly-trading",
+      "volume": 114807.198845,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will the Seahawks or the Rams win their week 10 NFL matchup?",
+      "slug": "will-the-seahawks-or-the-rams-win-their-week-10-nfl-matchup",
+      "volume": 140094.576395,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Pfizer's COVID-19 vaccine be the first to receive FDA approval or Emergency Use Authorization (EUA)?",
+      "slug": "will-pfizer-s-covid-19-vaccine-be-the-first-to-receive-fda-approval-or-emergency-use-authorization-eua",
+      "volume": 151822.615733,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Sushiswap have more TVL than Uniswap at any time before November 24th, according to DefiPulse?",
+      "slug": "will-sushiswap-have-more-tvl-than-uniswap-at-any-time-before-november-24th-according-to-defipulse",
+      "volume": 139390.060805,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will $BTC break $20k before Thanksgiving?",
+      "slug": "will-btc-break-20k-before-thanksgiving",
+      "volume": 457360.180333,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Which party will win the U.S. Senate runoff in Georgia? (Ossoff - D vs. Perdue - R)",
+      "slug": "which-party-will-win-the-u-s-senate-runoff-in-georgia-ossoff-d-vs-perdue-r",
+      "volume": 206128.535439,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Coinbase reach #1 in the Finance category on the US iOS App Store before 2021?",
+      "slug": "will-coinbase-reach-1-in-i-os-app-store-finance-category-before-2021",
+      "volume": 195420.953091,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Donald Trump join Parler before Inauguration Day?",
+      "slug": "will-donald-trump-join-parler-before-inauguration-day",
+      "volume": 172744.38442,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "What will the average sale price of a PS5 be on StockX on Christmas Day?",
+      "slug": "what-will-the-average-sale-price-of-a-ps-5-be-on-stock-x-on-christmas-day",
+      "volume": 113361.639986,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will any Electoral College Certificates of Vote be formally challenged in Congress?",
+      "slug": "will-any-electoral-certificates-be-formally-challenged-in-congress",
+      "volume": 265340.926545,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "Will Donald Trump pardon a family member before Inauguration Day?",
+      "slug": "will-donald-trump-pardon-a-family-member-before-inauguration-day-2",
+      "volume": 122101.594931,
+      "liquidity": 0.0,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.25
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.25,
+      "yes_price": 0.0,
+      "no_price": 0.0,
+      "spread": 0.0
+    },
+    {
+      "market": "How many tweets will @DonaldJTrumpJr post from Jan 18th to 25th?",
+      "slug": "how-many-tweets-will-donald-j-trump-jr-post-from-jan-18th-to-25th",
+      "volume": 157817.485837,
+      "liquidity": 5.5e-05,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999999689867833
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.24999999689867833,
+      "yes_price": 3.1013216688148214e-09,
+      "no_price": 1.3383647247235723e-10,
+      "spread": 2.9674851963424644e-09
+    },
+    {
+      "market": "How many Senators will vote to convict Donald Trump on incitement by March 1?",
+      "slug": "how-many-senators-will-vote-to-convict-donald-trump-on-incitement-by-march-1",
+      "volume": 229323.537104,
+      "liquidity": 0.812904,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.24999163681466557
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.24999163681466557,
+      "yes_price": 8.363185334425445e-06,
+      "no_price": 4.060164603278694e-06,
+      "spread": 4.303020731146751e-06
+    },
+    {
+      "market": "Will Floyd Mayweather beat Logan Paul in their boxing exhibition match?",
+      "slug": "will-floyd-mayweather-beat-logan-paul-in-their-boxing-exhibition-match",
+      "volume": 101440.222822,
+      "liquidity": 1.159156,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (79.4%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.23819479192780257
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.23819479192780257,
+      "yes_price": 0.896991319879671,
+      "no_price": 0.103008680120329,
+      "spread": 0.7939826397593419
+    },
+    {
+      "market": "What will Coinbase\u2019s market cap be 1 week after it starts publicly trading?",
+      "slug": "what-will-coinbase-s-market-cap-be-1-week-after-it-starts-publicly-trading",
+      "volume": 489636.840329,
+      "liquidity": 61.074887,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (57.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.17372267966046517
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.17372267966046517,
+      "yes_price": 0.7895377994341086,
+      "no_price": 0.21046220056589138,
+      "spread": 0.5790755988682172
+    },
+    {
+      "market": "What rating will theneedledrop give Drake\u2019s \"Certified Lover Boy\"?",
+      "slug": "what-rating-will-theneedledrop-give-drake-s-certified-lover-boy",
+      "volume": 7105.380354,
+      "liquidity": 1e-05,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (33.4%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.10030624655282645
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.10030624655282645,
+      "yes_price": 0.33282292241195593,
+      "no_price": 0.6671770775880441,
+      "spread": 0.3343541551760882
+    },
+    {
+      "market": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?",
+      "slug": "what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
+      "volume": 46944.579746,
+      "liquidity": 4.601742,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (16.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.05059870014466159
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.05059870014466159,
+      "yes_price": 0.5843311669077693,
+      "no_price": 0.4156688330922307,
+      "spread": 0.16866233381553863
+    }
+  ]
+}
