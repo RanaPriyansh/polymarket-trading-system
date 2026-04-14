@@ -21,10 +21,11 @@ Current git summary: ## master...origin/master
 
 ## Remaining work
 1. **Paper trading / dry-run mode** — Add config flag when execution module is built
-2. **Position sizing fix** — Backtesting engine produces unrealistic % returns (107B% for momentum strategy) due to compounding logic
+2. ~~**Position sizing fix** — Backtesting engine produces unrealistic % returns (107B% for momentum strategy) due to compounding logic~~ ✅ Fixed — see backtest-results-2026-04-14-v2.md
 3. **Time-series data collection** — Current data is single-snapshot per market; proper backtesting needs periodic price snapshots
 4. **Trading execution module** — Implement actual order placement via CLOB API (currently monitoring-only)
 5. **Machine learning models** — Config references isolation_forest, gradient_boosting, prophet but these are not implemented
+6. **Volume breakout tuning** — 152 trades at 2.6% win rate indicates bad parameters; needs threshold adjustment
 
 ## Definition of done for the next agent session
 - Fresh clone setup is documented and reproducible. ✅

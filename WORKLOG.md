@@ -17,13 +17,33 @@
 - Position sizing produces unrealistic % returns — needs review
 - Data is single-snapshot (not time-series), limiting backtest reliability
 
-### What Still Needs Work (from TODO)
-1. ❌ Add safe paper-trading / dry-run mode
-2. ✅ Backtest one recent scenario (done — results saved)
-3. ❌ Update README with verified local setup commands
-4. ❌ Create smoke test for fresh clones
-5. ✅ Fix highest-leverage broken path (backtesting ZeroDivision fixed)
-6. ✅ Create WORKLOG.md (this file)
+## 2026-04-14 — Builder Engine Run (17:15)
+
+### Completed
+- **Fixed position sizing compounding bug** — 4 root causes in `backtesting_engine.py`:
+  - Compounding position sizing (capital * 0.02 → initial_capital * 0.02)
+  - Double-counting PnL on close (added proceeds AND profit)
+  - No short direction handling in capital accounting
+  - Misleading total_pnl_percent (averaged per-trade % → portfolio-level return)
+- **Re-ran backtests** — realistic results: momentum 226% (was 107B%), statistical 104% (was 46M%)
+- **Committed and pushed** — `9320349`
+- All smoke tests passing
+
+### Backtest Results (v2 — fixed)
+
+| Strategy | Trades | Win Rate | PnL | Return | Final Capital |
+|---|---|---|---|---|---|
+| momentum | 45 | 75.6% | $2,261 | 226.1% | $3,261 |
+| statistical | 22 | 72.7% | $1,041 | 104.1% | $2,041 |
+| volume_breakout | 152 | 2.6% | $142 | 14.2% | $1,142 |
+| mean_reversion | 19 | 5.3% | $55 | 5.5% | $1,055 |
+
+### What Still Needs Work
+1. ❌ Time-series data collection (single-snapshot limits backtest validity)
+2. ❌ Paper trading / dry-run mode
+3. ❌ Volume breakout tuning (152 trades / 2.6% win = bad params)
+4. ❌ Trading execution module
+5. ❌ ML models implementation
 
 ### System Status
 - Monitoring script: ✅ fetches 100+ markets from Gamma API
