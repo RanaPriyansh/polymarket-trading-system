@@ -1,0 +1,2890 @@
+{
+  "timestamp": "2026-04-14T05:18:31.349544",
+  "total_markets": 100,
+  "analyses": [
+    {
+      "market": "Will the Winnipeg Jets win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup",
+      "volume": 1247564.6114019994,
+      "liquidity": 304359.17863,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2495
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,247,565) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6492,
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "spread": 0.9990000000000001
+    },
+    {
+      "market": "Will the Washington Capitals win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-washington-capitals-win-the-2026-nhl-stanley-cup",
+      "volume": 1792169.814648005,
+      "liquidity": 518074.65274,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2495
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,792,170) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6492,
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "spread": 0.9990000000000001
+    },
+    {
+      "market": "Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup",
+      "volume": 1022337.7095569987,
+      "liquidity": 188105.66227,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2495
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,022,338) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6492,
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "spread": 0.9990000000000001
+    },
+    {
+      "market": "Will the San Jose Sharks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-san-jose-sharks-win-the-2026-nhl-stanley-cup",
+      "volume": 1078090.5133339996,
+      "liquidity": 234156.3173,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2495
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,078,091) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6492,
+      "yes_price": 0.0005,
+      "no_price": 0.9995,
+      "spread": 0.9990000000000001
+    },
+    {
+      "market": "Will the Golden State Warriors win the 2026 NBA Finals?",
+      "slug": "will-the-golden-state-warriors-win-the-2026-nba-finals",
+      "volume": 11455940.150366763,
+      "liquidity": 1351606.96969,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,455,940) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will the Miami Heat win the 2026 NBA Finals?",
+      "slug": "will-the-miami-heat-win-the-2026-nba-finals",
+      "volume": 11410594.19401693,
+      "liquidity": 528190.06289,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,410,594) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will the Portland Trail Blazers win the 2026 NBA Finals?",
+      "slug": "will-the-portland-trail-blazers-win-the-2026-nba-finals",
+      "volume": 19560205.087828696,
+      "liquidity": 765721.60015,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($19,560,205) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will New Zealand win the 2026 FIFA World Cup?",
+      "slug": "will-new-zealand-win-the-2026-fifa-world-cup-635",
+      "volume": 22034352.56250429,
+      "liquidity": 3248670.87095,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($22,034,353) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "slug": "will-uzbekistan-win-the-2026-fifa-world-cup-773",
+      "volume": 31777064.09270019,
+      "liquidity": 3073610.75913,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($31,777,064) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will Jordan win the 2026 FIFA World Cup?",
+      "slug": "will-jordan-win-the-2026-fifa-world-cup-233",
+      "volume": 19000146.905081734,
+      "liquidity": 3856940.7451,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($19,000,147) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will Qatar win the 2026 FIFA World Cup?",
+      "slug": "will-qatar-win-the-2026-fifa-world-cup",
+      "volume": 16342501.28068885,
+      "liquidity": 3113198.16811,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($16,342,501) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will Haiti win the 2026 FIFA World Cup?",
+      "slug": "will-haiti-win-the-2026-fifa-world-cup",
+      "volume": 15041559.44482005,
+      "liquidity": 4061508.23705,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2485
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29910000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($15,041,559) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6476000000000001,
+      "yes_price": 0.0015,
+      "no_price": 0.9985,
+      "spread": 0.9970000000000001
+    },
+    {
+      "market": "Will the Nashville Predators win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-nashville-predators-win-the-2026-nhl-stanley-cup",
+      "volume": 1879725.6937139998,
+      "liquidity": 132860.15466,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,879,726) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will the Orlando Magic win the 2026 NBA Finals?",
+      "slug": "will-the-orlando-magic-win-the-2026-nba-finals",
+      "volume": 9680945.914609939,
+      "liquidity": 594781.14979,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($9,680,946) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Tunisia win the 2026 FIFA World Cup?",
+      "slug": "will-tunisia-win-the-2026-fifa-world-cup-165",
+      "volume": 13953088.181523178,
+      "liquidity": 3593665.74458,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,953,088) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Australia win the 2026 FIFA World Cup?",
+      "slug": "will-australia-win-the-2026-fifa-world-cup-816",
+      "volume": 12254210.99240596,
+      "liquidity": 3712751.44808,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,254,211) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Iran win the 2026 FIFA World Cup?",
+      "slug": "will-iran-win-the-2026-fifa-world-cup-788",
+      "volume": 13863685.45530295,
+      "liquidity": 2857012.35263,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,863,685) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will South Africa win the 2026 FIFA World Cup?",
+      "slug": "will-south-africa-win-the-2026-fifa-world-cup",
+      "volume": 22289311.43074991,
+      "liquidity": 3140308.55633,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($22,289,311) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Ghana win the 2026 FIFA World Cup?",
+      "slug": "will-ghana-win-the-2026-fifa-world-cup",
+      "volume": 13339106.872026453,
+      "liquidity": 3831211.96744,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,339,107) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Algeria win the 2026 FIFA World Cup?",
+      "slug": "will-algeria-win-the-2026-fifa-world-cup",
+      "volume": 14295789.835156817,
+      "liquidity": 2965919.22299,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,295,790) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Cape Verde win the 2026 FIFA World Cup?",
+      "slug": "will-cape-verde-win-the-2026-fifa-world-cup",
+      "volume": 14574544.642967043,
+      "liquidity": 3669530.78677,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,574,545) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Saudi Arabia win the 2026 FIFA World Cup?",
+      "slug": "will-saudi-arabia-win-the-2026-fifa-world-cup",
+      "volume": 20721372.098746546,
+      "liquidity": 3146765.27571,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($20,721,372) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Cura\u00e7ao win the 2026 FIFA World Cup?",
+      "slug": "will-curaao-win-the-2026-fifa-world-cup",
+      "volume": 27050881.910094198,
+      "liquidity": 3480248.84805,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($27,050,882) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will Panama win the 2026 FIFA World Cup?",
+      "slug": "will-team-z-win-the-2026-fifa-world-cup-316",
+      "volume": 3640217.181605006,
+      "liquidity": 4162530.23952,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2475
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29850000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($3,640,217) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.646,
+      "yes_price": 0.0025,
+      "no_price": 0.9975,
+      "spread": 0.9950000000000001
+    },
+    {
+      "market": "Will the Los Angeles Clippers win the 2026 NBA Finals?",
+      "slug": "will-the-los-angeles-clippers-win-the-2026-nba-finals",
+      "volume": 14243259.491923964,
+      "liquidity": 286004.81674,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,243,259) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will the Philadelphia 76ers win the 2026 NBA Finals?",
+      "slug": "will-the-philadelphia-76ers-win-the-2026-nba-finals",
+      "volume": 9228503.246439956,
+      "liquidity": 544462.12011,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($9,228,503) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will the Phoenix Suns win the 2026 NBA Finals?",
+      "slug": "will-the-phoenix-suns-win-the-2026-nba-finals",
+      "volume": 12385168.498588998,
+      "liquidity": 535209.19246,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,385,168) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will the Charlotte Hornets win the 2026 NBA Finals?",
+      "slug": "will-the-charlotte-hornets-win-the-2026-nba-finals",
+      "volume": 33752553.7195533,
+      "liquidity": 527342.99523,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($33,752,554) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will Egypt win the 2026 FIFA World Cup?",
+      "slug": "will-egypt-win-the-2026-fifa-world-cup",
+      "volume": 14600588.670645267,
+      "liquidity": 2861005.8938,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,600,589) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will Scotland win the 2026 FIFA World Cup?",
+      "slug": "will-scotland-win-the-2026-fifa-world-cup",
+      "volume": 14863317.196431048,
+      "liquidity": 2943152.94503,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2465
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2979
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,863,317) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6444,
+      "yes_price": 0.0035,
+      "no_price": 0.9965,
+      "spread": 0.9930000000000001
+    },
+    {
+      "market": "Will the Toronto Raptors win the 2026 NBA Finals?",
+      "slug": "will-the-toronto-raptors-win-the-2026-nba-finals",
+      "volume": 12272546.74952393,
+      "liquidity": 472132.33951,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2455
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2973
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,272,547) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6427999999999999,
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "spread": 0.9910000000000001
+    },
+    {
+      "market": "Will Paraguay win the 2026 FIFA World Cup?",
+      "slug": "will-paraguay-win-the-2026-fifa-world-cup-967",
+      "volume": 14564861.16744434,
+      "liquidity": 2799909.39323,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2455
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2973
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,564,861) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6427999999999999,
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "spread": 0.9910000000000001
+    },
+    {
+      "market": "Will South Korea win the 2026 FIFA World Cup?",
+      "slug": "will-south-korea-win-the-2026-fifa-world-cup-485",
+      "volume": 17334508.390479118,
+      "liquidity": 2842185.00939,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2455
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2973
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($17,334,508) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6427999999999999,
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "spread": 0.9910000000000001
+    },
+    {
+      "market": "Will Ivory Coast win the 2026 FIFA World Cup?",
+      "slug": "will-ivory-coast-win-the-2026-fifa-world-cup",
+      "volume": 11907763.118564755,
+      "liquidity": 3296957.62095,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2455
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (99.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2973
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,907,763) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6427999999999999,
+      "yes_price": 0.0045,
+      "no_price": 0.9955,
+      "spread": 0.9910000000000001
+    },
+    {
+      "market": "Will the Atlanta Hawks win the 2026 NBA Finals?",
+      "slug": "will-the-atlanta-hawks-win-the-2026-nba-finals",
+      "volume": 15787576.210373761,
+      "liquidity": 537332.25328,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2445
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2967
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($15,787,576) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6412,
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "spread": 0.9890000000000001
+    },
+    {
+      "market": "Will Canada win the 2026 FIFA World Cup?",
+      "slug": "will-canada-win-the-2026-fifa-world-cup-755",
+      "volume": 14202132.10834394,
+      "liquidity": 2448472.70687,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2445
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2967
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,202,132) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6412,
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "spread": 0.9890000000000001
+    },
+    {
+      "market": "Will Austria win the 2026 FIFA World Cup?",
+      "slug": "will-austria-win-the-2026-fifa-world-cup",
+      "volume": 12968801.188161284,
+      "liquidity": 2382016.77452,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2445
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2967
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,968,801) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6412,
+      "yes_price": 0.0055,
+      "no_price": 0.9945,
+      "spread": 0.9890000000000001
+    },
+    {
+      "market": "Will Senegal win the 2026 FIFA World Cup?",
+      "slug": "will-senegal-win-the-2026-fifa-world-cup",
+      "volume": 11784717.249582436,
+      "liquidity": 1229568.98665,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2435
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29610000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,784,717) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6396000000000001,
+      "yes_price": 0.0065,
+      "no_price": 0.9935,
+      "spread": 0.9870000000000001
+    },
+    {
+      "market": "Will Ecuador win the 2026 FIFA World Cup?",
+      "slug": "will-ecuador-win-the-2026-fifa-world-cup-986",
+      "volume": 13592645.059989788,
+      "liquidity": 1477878.20061,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.8%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2425
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.29550000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,592,645) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.638,
+      "yes_price": 0.0075,
+      "no_price": 0.9925,
+      "spread": 0.9850000000000001
+    },
+    {
+      "market": "Will Uruguay win the 2026 FIFA World Cup?",
+      "slug": "will-uruguay-win-the-2026-fifa-world-cup-932",
+      "volume": 11525392.852354988,
+      "liquidity": 2679716.40707,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2405
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2943
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,525,393) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6347999999999999,
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "spread": 0.9810000000000001
+    },
+    {
+      "market": "Will Switzerland win the 2026 FIFA World Cup?",
+      "slug": "will-switzerland-win-the-2026-fifa-world-cup",
+      "volume": 12092184.00634034,
+      "liquidity": 1008996.06401,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2405
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2943
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,092,184) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6347999999999999,
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "spread": 0.9810000000000001
+    },
+    {
+      "market": "Will Croatia win the 2026 FIFA World Cup?",
+      "slug": "will-croatia-win-the-2026-fifa-world-cup",
+      "volume": 10566938.51126296,
+      "liquidity": 1060848.13255,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (0.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2405
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (98.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2943
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,566,939) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6347999999999999,
+      "yes_price": 0.0095,
+      "no_price": 0.9905,
+      "spread": 0.9810000000000001
+    },
+    {
+      "market": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
+      "volume": 6699164.867220924,
+      "liquidity": 150724.92498,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2385
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2931
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($6,699,165) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6316,
+      "yes_price": 0.0115,
+      "no_price": 0.9885,
+      "spread": 0.9770000000000001
+    },
+    {
+      "market": "Will Mexico win the 2026 FIFA World Cup?",
+      "slug": "will-mexico-win-the-2026-fifa-world-cup-529",
+      "volume": 11735222.018612197,
+      "liquidity": 230119.51709,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2385
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2931
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,735,222) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6316,
+      "yes_price": 0.0115,
+      "no_price": 0.9885,
+      "spread": 0.9770000000000001
+    },
+    {
+      "market": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+      "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+      "volume": 5944494.034546909,
+      "liquidity": 338907.92033,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2365
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2919
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($5,944,494) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6284,
+      "yes_price": 0.0135,
+      "no_price": 0.9865,
+      "spread": 0.9730000000000001
+    },
+    {
+      "market": "Will USA win the 2026 FIFA World Cup?",
+      "slug": "will-usa-win-the-2026-fifa-world-cup-467",
+      "volume": 9772660.574420858,
+      "liquidity": 1696136.58687,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2365
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2919
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($9,772,661) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6284,
+      "yes_price": 0.0135,
+      "no_price": 0.9865,
+      "spread": 0.9730000000000001
+    },
+    {
+      "market": "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
+      "volume": 876873.913983999,
+      "liquidity": 176725.79522,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2355
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2913
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($876,874) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6267999999999999,
+      "yes_price": 0.0145,
+      "no_price": 0.9855,
+      "spread": 0.9710000000000001
+    },
+    {
+      "market": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+      "slug": "will-the-los-angeles-lakers-win-the-2026-nba-finals",
+      "volume": 10158218.862172028,
+      "liquidity": 516913.36776,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2355
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (97.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2913
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,158,219) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6267999999999999,
+      "yes_price": 0.0145,
+      "no_price": 0.9855,
+      "spread": 0.9710000000000001
+    },
+    {
+      "market": "Will Morocco win the 2026 FIFA World Cup?",
+      "slug": "will-morocco-win-the-2026-fifa-world-cup-464",
+      "volume": 12623707.827007102,
+      "liquidity": 426251.61196,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.6%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2345
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2907
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,623,708) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6252,
+      "yes_price": 0.0155,
+      "no_price": 0.9845,
+      "spread": 0.9690000000000001
+    },
+    {
+      "market": "Will Colombia win the 2026 FIFA World Cup?",
+      "slug": "will-colombia-win-the-2026-fifa-world-cup-734",
+      "volume": 10598140.283417808,
+      "liquidity": 1261544.46376,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.23349999999999999
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2901
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,598,140) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6236,
+      "yes_price": 0.0165,
+      "no_price": 0.9835,
+      "spread": 0.9670000000000001
+    },
+    {
+      "market": "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup",
+      "volume": 1064268.4338170025,
+      "liquidity": 114603.51117,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.23299999999999998
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.6%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2898
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,064,268) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6227999999999999,
+      "yes_price": 0.017,
+      "no_price": 0.983,
+      "spread": 0.966
+    },
+    {
+      "market": "Will Belgium win the 2026 FIFA World Cup?",
+      "slug": "will-belgium-win-the-2026-fifa-world-cup-358",
+      "volume": 10990923.466444159,
+      "liquidity": 877113.82745,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.8%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.23249999999999998
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.28950000000000004
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,990,923) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.622,
+      "yes_price": 0.0175,
+      "no_price": 0.9825,
+      "spread": 0.9650000000000001
+    },
+    {
+      "market": "GTA VI released before June 2026?",
+      "slug": "gta-vi-released-before-june-2026",
+      "volume": 13540578.598253049,
+      "liquidity": 59768.66934,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.8%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2315
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2889
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,540,579) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6204,
+      "yes_price": 0.0185,
+      "no_price": 0.9815,
+      "spread": 0.9630000000000001
+    },
+    {
+      "market": "Will Japan win the 2026 FIFA World Cup?",
+      "slug": "will-japan-win-the-2026-fifa-world-cup-112",
+      "volume": 14027250.925856961,
+      "liquidity": 905574.10027,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.8%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2315
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2889
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($14,027,251) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6204,
+      "yes_price": 0.0185,
+      "no_price": 0.9815,
+      "spread": 0.9630000000000001
+    },
+    {
+      "market": "Will the Boston Bruins win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-boston-bruins-win-the-2026-nhl-stanley-cup",
+      "volume": 1074225.6212419986,
+      "liquidity": 158830.94403,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (1.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2305
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (96.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2883
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,074,226) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6188,
+      "yes_price": 0.0195,
+      "no_price": 0.9805,
+      "spread": 0.9610000000000001
+    },
+    {
+      "market": "Will the Houston Rockets win the 2026 NBA Finals?",
+      "slug": "will-the-houston-rockets-win-the-2026-nba-finals",
+      "volume": 4664897.814830974,
+      "liquidity": 341308.62751,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (2.1%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.229
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (95.8%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2874
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($4,664,898) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6164,
+      "yes_price": 0.021,
+      "no_price": 0.979,
+      "spread": 0.958
+    },
+    {
+      "market": "Will Norway win the 2026 FIFA World Cup?",
+      "slug": "will-norway-win-the-2026-fifa-world-cup-893",
+      "volume": 11354576.098936178,
+      "liquidity": 1085413.69168,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (2.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2275
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (95.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.28650000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,354,576) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.614,
+      "yes_price": 0.0225,
+      "no_price": 0.9775,
+      "spread": 0.9550000000000001
+    },
+    {
+      "market": "MegaETH market cap (FDV) >$6B one day after launch?",
+      "slug": "megaeth-market-cap-fdv-6b-one-day-after-launch-365-559-334-815-776-488-224-766",
+      "volume": 2400599.6192370183,
+      "liquidity": 53472.8225,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (2.4%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.226
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (95.2%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.28559999999999997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($2,400,600) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6115999999999999,
+      "yes_price": 0.024,
+      "no_price": 0.976,
+      "spread": 0.952
+    },
+    {
+      "market": "Will the Utah Mammoth win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-utah-mammoth-win-the-2026-nhl-stanley-cup",
+      "volume": 903331.562445996,
+      "liquidity": 149122.92051,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (2.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2205
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (94.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2823
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($903,332) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.6028,
+      "yes_price": 0.0295,
+      "no_price": 0.9705,
+      "spread": 0.9410000000000001
+    },
+    {
+      "market": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup",
+      "volume": 1155200.8960169973,
+      "liquidity": 139085.731,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (3.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.22
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (94.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.282
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,155,201) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.602,
+      "yes_price": 0.03,
+      "no_price": 0.97,
+      "spread": 0.94
+    },
+    {
+      "market": "Will Netherlands win the 2026 FIFA World Cup?",
+      "slug": "will-netherlands-win-the-2026-fifa-world-cup-739",
+      "volume": 13314687.15513289,
+      "liquidity": 460933.76014,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (3.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2175
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (93.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2805
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,314,687) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.598,
+      "yes_price": 0.0325,
+      "no_price": 0.9675,
+      "spread": 0.935
+    },
+    {
+      "market": "Will the New York Knicks win the 2026 NBA Finals?",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+      "volume": 5060366.94313488,
+      "liquidity": 233347.70878,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (3.9%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.211
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (92.2%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.27659999999999996
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($5,060,367) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5875999999999999,
+      "yes_price": 0.039,
+      "no_price": 0.961,
+      "spread": 0.9219999999999999
+    },
+    {
+      "market": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
+      "slug": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
+      "volume": 5567455.073718967,
+      "liquidity": 508047.64129,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (4.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2105
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (92.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2763
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($5,567,455) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5868,
+      "yes_price": 0.0395,
+      "no_price": 0.9605,
+      "spread": 0.921
+    },
+    {
+      "market": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
+      "volume": 8597842.785235962,
+      "liquidity": 220934.15392,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (4.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.2085
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (91.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2751
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($8,597,843) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5836,
+      "yes_price": 0.0415,
+      "no_price": 0.9585,
+      "spread": 0.917
+    },
+    {
+      "market": "Will the Ottawa Senators win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup",
+      "volume": 1041667.7538919977,
+      "liquidity": 112153.16246,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (4.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.20350000000000001
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (90.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2721
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,041,668) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5756,
+      "yes_price": 0.0465,
+      "no_price": 0.9535,
+      "spread": 0.907
+    },
+    {
+      "market": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+      "volume": 1285812.925887998,
+      "liquidity": 111821.89446,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (4.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.203
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (90.6%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2718
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,285,813) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5748,
+      "yes_price": 0.047,
+      "no_price": 0.953,
+      "spread": 0.9059999999999999
+    },
+    {
+      "market": "Will Germany win the 2026 FIFA World Cup?",
+      "slug": "will-germany-win-the-2026-fifa-world-cup-467",
+      "volume": 10085758.165932536,
+      "liquidity": 570767.40314,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (5.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.1975
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (89.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2685
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,085,758) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5660000000000001,
+      "yes_price": 0.0525,
+      "no_price": 0.9475,
+      "spread": 0.895
+    },
+    {
+      "market": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup",
+      "volume": 2916453.063488998,
+      "liquidity": 158671.65912,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (5.3%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.1965
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (89.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.26789999999999997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($2,916,453) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5644,
+      "yes_price": 0.0535,
+      "no_price": 0.9465,
+      "spread": 0.893
+    },
+    {
+      "market": "Will the Detroit Pistons win the 2026 NBA Finals?",
+      "slug": "will-the-detroit-pistons-win-the-2026-nba-finals",
+      "volume": 7245070.470664922,
+      "liquidity": 238269.12759,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (6.3%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.1865
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (87.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.26189999999999997
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($7,245,070) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5484,
+      "yes_price": 0.0635,
+      "no_price": 0.9365,
+      "spread": 0.873
+    },
+    {
+      "market": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "volume": 1441480.7818099973,
+      "liquidity": 104202.84134,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (6.6%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.184
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (86.8%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2604
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,441,481) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5444,
+      "yes_price": 0.066,
+      "no_price": 0.934,
+      "spread": 0.8680000000000001
+    },
+    {
+      "market": "Will Portugal win the 2026 FIFA World Cup?",
+      "slug": "will-portugal-win-the-2026-fifa-world-cup-912",
+      "volume": 12151541.664327634,
+      "liquidity": 228000.3225,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (7.0%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.1805
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (86.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2583
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,151,542) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5388,
+      "yes_price": 0.0695,
+      "no_price": 0.9305,
+      "spread": 0.861
+    },
+    {
+      "market": "Will the Dallas Stars win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-dallas-stars-win-the-2026-nhl-stanley-cup",
+      "volume": 1124228.3487429945,
+      "liquidity": 137387.17271,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (7.2%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.178
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (85.6%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.25680000000000003
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,124,228) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5348,
+      "yes_price": 0.072,
+      "no_price": 0.928,
+      "spread": 0.8560000000000001
+    },
+    {
+      "market": "Will Brazil win the 2026 FIFA World Cup?",
+      "slug": "will-brazil-win-the-2026-fifa-world-cup-183",
+      "volume": 11047096.470063033,
+      "liquidity": 712494.43972,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (8.6%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.16449999999999998
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (82.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.24869999999999998
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,047,096) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5132,
+      "yes_price": 0.0855,
+      "no_price": 0.9145,
+      "spread": 0.829
+    },
+    {
+      "market": "Will Argentina win the 2026 FIFA World Cup?",
+      "slug": "will-argentina-win-the-2026-fifa-world-cup-245",
+      "volume": 11523805.048081063,
+      "liquidity": 784336.61154,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (8.7%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.163
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (82.6%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.24780000000000002
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,523,805) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5108,
+      "yes_price": 0.087,
+      "no_price": 0.913,
+      "spread": 0.8260000000000001
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to between 5 and 10 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison",
+      "volume": 49909.33346000015,
+      "liquidity": 2899.54888,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Low Yes price (6.0%) with low volume ($49,909)",
+          "confidence": 0.6,
+          "potential_return": 0.2395
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (87.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2637
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.5032,
+      "yes_price": 0.0605,
+      "no_price": 0.9395,
+      "spread": 0.879
+    },
+    {
+      "market": "Will the Edmonton Oilers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup",
+      "volume": 489731.29551100277,
+      "liquidity": 56854.5421,
+      "opportunities": [
+        {
+          "type": "long_yes",
+          "reason": "Very low Yes price (6.5%) with high volume",
+          "confidence": 0.7,
+          "potential_return": 0.185
+        },
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (87.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.261
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.446,
+      "yes_price": 0.065,
+      "no_price": 0.935,
+      "spread": 0.8700000000000001
+    },
+    {
+      "market": "Will the Denver Nuggets win the 2026 NBA Finals?",
+      "slug": "will-the-denver-nuggets-win-the-2026-nba-finals",
+      "volume": 4134577.098008967,
+      "liquidity": 320874.1978,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (79.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.237
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($4,134,577) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.33699999999999997,
+      "yes_price": 0.105,
+      "no_price": 0.895,
+      "spread": 0.79
+    },
+    {
+      "market": "Will England win the 2026 FIFA World Cup?",
+      "slug": "will-england-win-the-2026-fifa-world-cup-937",
+      "volume": 11186277.96417684,
+      "liquidity": 1071798.83635,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (77.9%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.23369999999999996
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($11,186,278) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3337,
+      "yes_price": 0.1105,
+      "no_price": 0.8895,
+      "spread": 0.7789999999999999
+    },
+    {
+      "market": "MegaETH market cap (FDV) >$2B one day after launch?",
+      "slug": "megaeth-market-cap-fdv-2b-one-day-after-launch-738-867-649-272-765-733",
+      "volume": 5889565.24675308,
+      "liquidity": 67765.1389,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (77.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.23099999999999998
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($5,889,565) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.33099999999999996,
+      "yes_price": 0.115,
+      "no_price": 0.885,
+      "spread": 0.77
+    },
+    {
+      "market": "Will the Boston Celtics win the 2026 NBA Finals?",
+      "slug": "will-the-boston-celtics-win-the-2026-nba-finals",
+      "volume": 6534072.57374809,
+      "liquidity": 118198.0159,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (76.8%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2304
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($6,534,073) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3304,
+      "yes_price": 0.116,
+      "no_price": 0.884,
+      "spread": 0.768
+    },
+    {
+      "market": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup",
+      "volume": 1572289.2781679735,
+      "liquidity": 87772.39562,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (72.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2169
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,572,289) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3169,
+      "yes_price": 0.1385,
+      "no_price": 0.8615,
+      "spread": 0.7230000000000001
+    },
+    {
+      "market": "Will the San Antonio Spurs win the 2026 NBA Finals?",
+      "slug": "will-the-san-antonio-spurs-win-the-2026-nba-finals",
+      "volume": 16318506.193465851,
+      "liquidity": 192391.53353,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (70.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.21030000000000001
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($16,318,506) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.3103,
+      "yes_price": 0.1495,
+      "no_price": 0.8505,
+      "spread": 0.7010000000000001
+    },
+    {
+      "market": "Will France win the 2026 FIFA World Cup?",
+      "slug": "will-france-win-the-2026-fifa-world-cup-924",
+      "volume": 12670268.497951875,
+      "liquidity": 929368.86219,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (66.7%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2001
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,670,268) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.30010000000000003,
+      "yes_price": 0.1665,
+      "no_price": 0.8335,
+      "spread": 0.667
+    },
+    {
+      "market": "Will Spain win the 2026 FIFA World Cup?",
+      "slug": "will-spain-win-the-2026-fifa-world-cup-963",
+      "volume": 12967886.602128062,
+      "liquidity": 825512.86233,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (65.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.1953
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($12,967,887) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.2953,
+      "yes_price": 0.1745,
+      "no_price": 0.8255,
+      "spread": 0.651
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to more than 30 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison",
+      "volume": 53214.302672000085,
+      "liquidity": 3692.35352,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (92.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2763
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.2763,
+      "yes_price": 0.0395,
+      "no_price": 0.9605,
+      "spread": 0.921
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to less than 5 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison",
+      "volume": 86237.22273800001,
+      "liquidity": 9551.72994,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (91.3%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.2739
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.2739,
+      "yes_price": 0.0435,
+      "no_price": 0.9565,
+      "spread": 0.913
+    },
+    {
+      "market": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
+      "volume": 13460608.161518006,
+      "liquidity": 121199.69925,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (54.5%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.16349999999999998
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($13,460,608) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.26349999999999996,
+      "yes_price": 0.2275,
+      "no_price": 0.7725,
+      "spread": 0.5449999999999999
+    },
+    {
+      "market": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "volume": 304286.0299070006,
+      "liquidity": 99325.6971,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (73.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.219
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.219,
+      "yes_price": 0.135,
+      "no_price": 0.865,
+      "spread": 0.73
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to between 20 and 30 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison",
+      "volume": 176494.12130000032,
+      "liquidity": 1833.446,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (54.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.162
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.162,
+      "yes_price": 0.23,
+      "no_price": 0.77,
+      "spread": 0.54
+    },
+    {
+      "market": "New Rihanna Album before GTA VI?",
+      "slug": "new-rhianna-album-before-gta-vi-926",
+      "volume": 693432.9851310025,
+      "liquidity": 44003.7313,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (17.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.051
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($693,433) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.151,
+      "yes_price": 0.585,
+      "no_price": 0.415,
+      "spread": 0.16999999999999998
+    },
+    {
+      "market": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "volume": 6680315.990206982,
+      "liquidity": 176247.8697,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (15.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.04499999999999999
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($6,680,316) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.145,
+      "yes_price": 0.425,
+      "no_price": 0.575,
+      "spread": 0.14999999999999997
+    },
+    {
+      "market": "Will MegaETH perform an airdrop by June 30? ",
+      "slug": "will-megaeth-perform-an-airdrop-by-june-30-143-229-513-574-212-254",
+      "volume": 1110653.1368290007,
+      "liquidity": 9323.98662,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (11.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.03300000000000001
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,110,653) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.133,
+      "yes_price": 0.445,
+      "no_price": 0.555,
+      "spread": 0.11000000000000004
+    },
+    {
+      "market": "Russia-Ukraine Ceasefire before GTA VI?",
+      "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
+      "volume": 1502666.3043419693,
+      "liquidity": 60919.7221,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (9.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.027000000000000007
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,502,666) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.127,
+      "yes_price": 0.545,
+      "no_price": 0.455,
+      "spread": 0.09000000000000002
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to between 10 and 20 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison",
+      "volume": 136851.69503700008,
+      "liquidity": 1460.02302,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (41.4%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.12419999999999999
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.12419999999999999,
+      "yes_price": 0.293,
+      "no_price": 0.707,
+      "spread": 0.414
+    },
+    {
+      "market": "New Playboi Carti Album before GTA VI?",
+      "slug": "new-playboi-carti-album-before-gta-vi-421",
+      "volume": 723795.2224789985,
+      "liquidity": 47292.4584,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (7.0%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.021
+        },
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($723,795) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.12100000000000001,
+      "yes_price": 0.535,
+      "no_price": 0.465,
+      "spread": 0.07
+    },
+    {
+      "market": "Will Jesus Christ return before GTA VI?",
+      "slug": "will-jesus-christ-return-before-gta-vi-665",
+      "volume": 10987817.63509504,
+      "liquidity": 863598.3246,
+      "opportunities": [
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($10,987,818) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.1,
+      "yes_price": 0.485,
+      "no_price": 0.515,
+      "spread": 0.030000000000000027
+    },
+    {
+      "market": "Trump out as President before GTA VI?",
+      "slug": "trump-out-as-president-before-gta-vi-846",
+      "volume": 585911.0952640113,
+      "liquidity": 65480.519,
+      "opportunities": [
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($585,911) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.1,
+      "yes_price": 0.52,
+      "no_price": 0.48,
+      "spread": 0.040000000000000036
+    },
+    {
+      "market": "Will China invades Taiwan before GTA VI?",
+      "slug": "will-china-invades-taiwan-before-gta-vi-716",
+      "volume": 1780523.689627061,
+      "liquidity": 83339.0806,
+      "opportunities": [
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($1,780,524) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.1,
+      "yes_price": 0.515,
+      "no_price": 0.485,
+      "spread": 0.030000000000000027
+    },
+    {
+      "market": "Will bitcoin hit $1m before GTA VI?",
+      "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
+      "volume": 3978230.953558563,
+      "liquidity": 468012.20968,
+      "opportunities": [
+        {
+          "type": "volume_spike",
+          "reason": "High volume ($3,978,231) indicates market interest",
+          "confidence": 0.6,
+          "potential_return": 0.1
+        }
+      ],
+      "risk_level": "medium",
+      "potential_return": 0.1,
+      "yes_price": 0.489,
+      "no_price": 0.511,
+      "spread": 0.02200000000000002
+    },
+    {
+      "market": "Will Harvey Weinstein be sentenced to no prison time?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-no-prison-time",
+      "volume": 315609.4067980011,
+      "liquidity": 1347.50347,
+      "opportunities": [
+        {
+          "type": "arbitrage",
+          "reason": "Wide spread (33.1%) between Yes/No",
+          "confidence": 0.5,
+          "potential_return": 0.09929999999999999
+        }
+      ],
+      "risk_level": "high",
+      "potential_return": 0.09929999999999999,
+      "yes_price": 0.3345,
+      "no_price": 0.6655,
+      "spread": 0.33099999999999996
+    }
+  ]
+}
