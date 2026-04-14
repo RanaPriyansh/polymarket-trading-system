@@ -1,0 +1,146 @@
+{
+  "momentum": {
+    "total_trades": 530,
+    "win_rate": "70.8%",
+    "total_pnl": "$45,007.16",
+    "return_pct": "4500.7%",
+    "sharpe": "0.26",
+    "profit_factor": "14.08",
+    "final_capital": "$46,007.16",
+    "markets_traded": 27,
+    "top_markets": [
+      [
+        "Will West Ham be relegated from the Engl",
+        46
+      ],
+      [
+        "Will Half-Life 3 be announced before 202",
+        44
+      ],
+      [
+        "Will JPMorgan Chase or any of its underw",
+        43
+      ],
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        40
+      ],
+      [
+        "Will Anthropic\u2019s market cap be between $",
+        37
+      ]
+    ]
+  },
+  "statistical": {
+    "total_trades": 242,
+    "win_rate": "87.2%",
+    "total_pnl": "$33,001.88",
+    "return_pct": "3300.2%",
+    "sharpe": "0.37",
+    "profit_factor": "227.98",
+    "final_capital": "$34,001.88",
+    "markets_traded": 25,
+    "top_markets": [
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        27
+      ],
+      [
+        "Will Citigroup or any of its underwritin",
+        24
+      ],
+      [
+        "Will Anthropic\u2019s market cap be between $",
+        19
+      ],
+      [
+        "Will JD Gaming win the LPL 2026 season?",
+        18
+      ],
+      [
+        "Gemini 3.5 released by May 31?",
+        17
+      ]
+    ]
+  },
+  "mean_reversion": {
+    "total_trades": 1012,
+    "win_rate": "16.7%",
+    "total_pnl": "$24,073.77",
+    "return_pct": "2407.4%",
+    "sharpe": "0.28",
+    "profit_factor": "248.21",
+    "final_capital": "$25,073.77",
+    "markets_traded": 22,
+    "top_markets": [
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        144
+      ],
+      [
+        "Will JPMorgan Chase or any of its underw",
+        144
+      ],
+      [
+        "Will Citigroup or any of its underwritin",
+        138
+      ],
+      [
+        "Will Anthropic\u2019s market cap be between $",
+        138
+      ],
+      [
+        "Will Andrey Rublev win the 2026 Men's Fr",
+        132
+      ]
+    ]
+  },
+  "volume_breakout": {
+    "total_trades": 85,
+    "win_rate": "4.7%",
+    "total_pnl": "$354.72",
+    "return_pct": "35.5%",
+    "sharpe": "0.18",
+    "profit_factor": "6.94",
+    "final_capital": "$1,354.72",
+    "markets_traded": 21,
+    "top_markets": [
+      [
+        "Will Geraldo Alckmin win the 2026 Brazil",
+        13
+      ],
+      [
+        "Will Claude 5 be released by April 30, 2",
+        12
+      ],
+      [
+        "Will Reza Pahlavi enter Iran by December",
+        10
+      ],
+      [
+        "2026 Balance of Power: R Senate, R House",
+        5
+      ],
+      [
+        "Will JD Gaming win the LPL 2026 season?",
+        4
+      ]
+    ]
+  },
+  "monitoring_momentum": {
+    "total_trades": 68,
+    "win_rate": "75.0%",
+    "total_pnl": "$3,069.14",
+    "return_pct": "306.9%",
+    "final_capital": "$4,069.14",
+    "note": "Single-snapshot monitoring data (no time dimension)"
+  },
+  "monitoring_statistical": {
+    "total_trades": 30,
+    "win_rate": "83.3%",
+    "total_pnl": "$1,816.01",
+    "return_pct": "181.6%",
+    "final_capital": "$2,816.01",
+    "note": "Single-snapshot monitoring data (no time dimension)"
+  }
+}

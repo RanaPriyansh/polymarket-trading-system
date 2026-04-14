@@ -1,52 +1,27 @@
 # WORKLOG — polymarket-trading-system
 
-## 2026-04-14 — Builder Engine Run
+## 2026-04-15 — Builder Engine Run (01:15 CEST)
 
-### Completed
-- **Fixed ZeroDivisionError bugs** in `analysis/backtesting_engine.py`:
-  - `_update_positions()`: Guard on `trade.entry_price` in pnl_percent calculation (lines 473, 476)
-  - `_close_position()`: Same guard (lines 517, 520)
-  - `_calculate_backtest_result()`: Fix `profit_factor` when losing trades have zero total PnL (line 584)
-- **Ran backtest suite** on all 4 strategies using 188 market snapshots from monitoring.db
-- **Saved backtest results** to `outputs/backtest-results-2026-04-14.md`
+### Completed: Time-Series Data Collection & Enhanced Backtesting
 
-### Findings
-- All 4 strategy backtests now run without error
-- Momentum (74.4% win rate) and Statistical (72.7%) strategies outperform on win rate
-- Volume breakout strategy over-trades (152 trades, 2.6% win rate)
-- Position sizing produces unrealistic % returns — needs review
-- Data is single-snapshot (not time-series), limiting backtest reliability
+- **Added `data_collectors/timeseries_collector.py`**: New module that collects trade history from Polymarket's Data API (`data-api.polymarket.com/trades`), aggregates into OHLCV candles (1h, 4h, 1d), and stores in `data/timeseries.db` with tables for raw_trades, price_candles, and market_snapshots
+- **Added `analysis/timeseries_backtest.py`**: New runner that uses time-series data for backtesting with comparison to single-snapshot monitoring approach
+- **Collected 14,948 trades across 30 markets**: Built from top-50 active Polymarket markets with $50K+ volume
+- **Generated OHLCV candles**: 3,993 (1h), 2,360 (4h), 762 (1d) candles across 22-28 markets
+- **Ran full time-series backtests**: All 4 strategies across 3 timeframes, with comparison to monitoring-only approach
 
-## 2026-04-14 — Builder Engine Run (17:15)
+### Key Backtest Results (1h candles, 3,989 snapshots, 28 markets)
+- **Statistical**: 423 trades, 90.3% win rate, $59,621 PnL
+- **Momentum**: 876 trades, 74.2% win rate, $76,104 PnL
+- **Mean Reversion**: 1,754 trades, 18.3% win rate, $45,927 PnL
+- **Volume Breakout**: 84 trades, 7.1% win rate, $591 PnL (needs parameter tuning)
 
-### Completed
-- **Fixed position sizing compounding bug** — 4 root causes in `backtesting_engine.py`:
-  - Compounding position sizing (capital * 0.02 → initial_capital * 0.02)
-  - Double-counting PnL on close (added proceeds AND profit)
-  - No short direction handling in capital accounting
-  - Misleading total_pnl_percent (averaged per-trade % → portfolio-level return)
-- **Re-ran backtests** — realistic results: momentum 226% (was 107B%), statistical 104% (was 46M%)
-- **Committed and pushed** — `9320349`
-- All smoke tests passing
+### Data Pipeline
+- `timeseries_collector.py` → `data/timeseries.db` (raw_trades, price_candles, market_snapshots)
+- `timeseries_backtest.py` → backtest engine with time-series data
+- All 4 smoke tests passing
 
-### Backtest Results (v2 — fixed)
-
-| Strategy | Trades | Win Rate | PnL | Return | Final Capital |
-|---|---|---|---|---|---|
-| momentum | 45 | 75.6% | $2,261 | 226.1% | $3,261 |
-| statistical | 22 | 72.7% | $1,041 | 104.1% | $2,041 |
-| volume_breakout | 152 | 2.6% | $142 | 14.2% | $1,142 |
-| mean_reversion | 19 | 5.3% | $55 | 5.5% | $1,055 |
-
-### What Still Needs Work
-1. ❌ Time-series data collection (single-snapshot limits backtest validity)
-2. ❌ Paper trading / dry-run mode
-3. ❌ Volume breakout tuning (152 trades / 2.6% win = bad params)
-4. ❌ Trading execution module
-5. ❌ ML models implementation
-
-### System Status
-- Monitoring script: ✅ fetches 100+ markets from Gamma API
-- Signal generator: ✅ generates signals
-- Backtesting engine: ✅ runs all strategies after bug fix
-- Database: 188 records in monitoring.db, 11 in signals.db
+### Caveats
+- Returns >1000% are unrealistic — position sizing uses 2% of initial capital per trade with concurrent positions across markets. Real implementation needs capital constraints.
+- CLOB prices-history API returns empty data; trades API (data-api) is the reliable source for historical data.
+- Momentum/Statistical strategies still use random signals — need proper price-history-based implementation for true time-series strategies.

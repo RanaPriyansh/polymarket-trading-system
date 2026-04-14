@@ -1,0 +1,146 @@
+{
+  "momentum": {
+    "total_trades": 182,
+    "win_rate": "68.1%",
+    "total_pnl": "$12,494.41",
+    "return_pct": "1249.4%",
+    "sharpe": "0.25",
+    "profit_factor": "10.89",
+    "final_capital": "$13,494.41",
+    "markets_traded": 21,
+    "top_markets": [
+      [
+        "Will JD Gaming win the LPL 2026 season?",
+        18
+      ],
+      [
+        "Will Half-Life 3 be announced before 202",
+        18
+      ],
+      [
+        "Will Jack Thorne win the 2026 Fields Med",
+        15
+      ],
+      [
+        "Will JPMorgan Chase or any of its underw",
+        14
+      ],
+      [
+        "Will West Ham be relegated from the Engl",
+        14
+      ]
+    ]
+  },
+  "statistical": {
+    "total_trades": 89,
+    "win_rate": "91.0%",
+    "total_pnl": "$12,373.12",
+    "return_pct": "1237.3%",
+    "sharpe": "0.38",
+    "profit_factor": "492.51",
+    "final_capital": "$13,373.12",
+    "markets_traded": 20,
+    "top_markets": [
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        11
+      ],
+      [
+        "Will Citigroup or any of its underwritin",
+        9
+      ],
+      [
+        "Gemini 3.5 released by May 31?",
+        9
+      ],
+      [
+        "Will JD Gaming win the LPL 2026 season?",
+        8
+      ],
+      [
+        "Will Anthropic\u2019s market cap be between $",
+        7
+      ]
+    ]
+  },
+  "mean_reversion": {
+    "total_trades": 266,
+    "win_rate": "16.5%",
+    "total_pnl": "$5,889.88",
+    "return_pct": "589.0%",
+    "sharpe": "0.27",
+    "profit_factor": "526.88",
+    "final_capital": "$6,889.88",
+    "markets_traded": 14,
+    "top_markets": [
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        40
+      ],
+      [
+        "Will Anthropic\u2019s market cap be between $",
+        40
+      ],
+      [
+        "Will Andrey Rublev win the 2026 Men's Fr",
+        38
+      ],
+      [
+        "Will Citigroup or any of its underwritin",
+        35
+      ],
+      [
+        "Will JPMorgan Chase or any of its underw",
+        35
+      ]
+    ]
+  },
+  "volume_breakout": {
+    "total_trades": 70,
+    "win_rate": "8.6%",
+    "total_pnl": "$573.96",
+    "return_pct": "57.4%",
+    "sharpe": "0.26",
+    "profit_factor": "131.44",
+    "final_capital": "$1,573.96",
+    "markets_traded": 19,
+    "top_markets": [
+      [
+        "2026 Balance of Power: R Senate, R House",
+        8
+      ],
+      [
+        "Will Geraldo Alckmin win the 2026 Brazil",
+        7
+      ],
+      [
+        "Will Stephen Miran be confirmed as Fed C",
+        6
+      ],
+      [
+        "Will Reza Pahlavi enter Iran by December",
+        6
+      ],
+      [
+        "Will Gold (GC) hit (HIGH) $9,000 by end ",
+        5
+      ]
+    ]
+  },
+  "monitoring_momentum": {
+    "total_trades": 69,
+    "win_rate": "78.3%",
+    "total_pnl": "$3,569.54",
+    "return_pct": "357.0%",
+    "final_capital": "$4,569.54",
+    "note": "Single-snapshot monitoring data (no time dimension)"
+  },
+  "monitoring_statistical": {
+    "total_trades": 40,
+    "win_rate": "85.0%",
+    "total_pnl": "$2,508.29",
+    "return_pct": "250.8%",
+    "final_capital": "$3,508.29",
+    "note": "Single-snapshot monitoring data (no time dimension)"
+  }
+}
