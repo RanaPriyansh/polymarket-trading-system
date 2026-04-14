@@ -106,19 +106,45 @@ polymarket-trading-system/
 └── README.md
 ```
 
-## Usage
+## Quick Start (Verified 2026-04-14)
 
-### Run comprehensive monitor:
 ```bash
 cd /root/projects/polymarket-trading-system
+
+# Smoke test — verifies imports, databases, backtesting, and API connectivity
+python3 tests/test_smoke.py
+
+# Run comprehensive monitor (fetches 100+ markets from Polymarket Gamma API)
 python3 monitoring/comprehensive_monitor.py
+
+# Run signal generator
+python3 analysis/signal_generator.py
+
+# Run backtesting engine on historical data
+python3 -c "
+import asyncio, sqlite3, json
+from datetime import datetime
+from analysis.backtesting_engine import BacktestingEngine, StrategyType
+conn = sqlite3.connect('data/monitoring.db')
+conn.row_factory = sqlite3.Row
+rows = conn.execute('SELECT * FROM monitoring_results').fetchall()
+conn.close()
+data = [dict(r) for r in rows]
+for d in data:
+    if isinstance(d.get('opportunities'), str):
+        try: d['opportunities'] = json.loads(d['opportunities'])
+        except: d['opportunities'] = []
+engine = BacktestingEngine(initial_capital=1000.0)
+result = asyncio.run(engine.run_backtest(data, StrategyType.MEAN_REVERSION, datetime(2026,3,17), datetime(2026,4,14)))
+print(f'{result.strategy_name}: {result.total_trades} trades, {result.win_rate:.1%} win, PnL \${result.total_pnl:.2f}')
+"
 ```
 
-### Run signal generator:
-```bash
-cd /root/projects/polymarket-trading-system
-python3 analysis/signal_generator.py
-```
+**Dependencies**: `aiohttp`, `numpy`, `pandas` (pip install if missing)
+
+## Bug Fixes (2026-04-14)
+
+- **ZeroDivisionError** in `backtesting_engine.py`: Fixed division by `trade.entry_price` (can be 0 for extreme-priced markets) and division by `sum(abs(t.pnl))` (can be 0.0 when losing trades have zero nominal PnL). See `WORKLOG.md` for details.
 
 ## Current Status
 
@@ -127,7 +153,10 @@ python3 analysis/signal_generator.py
 ✅ Analysis engine with multiple strategies
 ✅ Monitoring and alerting system
 ✅ Automated workflows running
+✅ Smoke test created and passing
+✅ Backtesting engine bug-fixed and verified on all 4 strategies
 ⚠️ Trading execution not yet implemented (next step)
+⚠️ Position sizing produces unrealistic % returns — needs review
 
 ## Telegram Alerts
 

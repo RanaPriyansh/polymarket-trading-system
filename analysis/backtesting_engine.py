@@ -470,10 +470,10 @@ class BacktestingEngine:
             # Update current price
             if trade.direction in ["long_yes", "long_no"]:
                 pnl = (yes_price - trade.entry_price) * trade.position_size
-                pnl_percent = (yes_price - trade.entry_price) / trade.entry_price
+                pnl_percent = (yes_price - trade.entry_price) / trade.entry_price if trade.entry_price != 0 else 0.0
             else:  # SHORT
                 pnl = (trade.entry_price - yes_price) * trade.position_size
-                pnl_percent = (trade.entry_price - yes_price) / trade.entry_price
+                pnl_percent = (trade.entry_price - yes_price) / trade.entry_price if trade.entry_price != 0 else 0.0
             
             trade.pnl = pnl
             trade.pnl_percent = pnl_percent
@@ -514,10 +514,10 @@ class BacktestingEngine:
         # Calculate final P&L
         if trade.direction in ["long_yes", "long_no"]:
             pnl = (exit_price - trade.entry_price) * trade.position_size
-            pnl_percent = (exit_price - trade.entry_price) / trade.entry_price
+            pnl_percent = (exit_price - trade.entry_price) / trade.entry_price if trade.entry_price != 0 else 0.0
         else:  # SHORT
             pnl = (trade.entry_price - exit_price) * trade.position_size
-            pnl_percent = (trade.entry_price - exit_price) / trade.entry_price
+            pnl_percent = (trade.entry_price - exit_price) / trade.entry_price if trade.entry_price != 0 else 0.0
         
         # Update trade
         trade.exit_price = exit_price
@@ -581,7 +581,8 @@ class BacktestingEngine:
         avg_win = statistics.mean([t.pnl for t in winning_trades]) if winning_trades else 0
         avg_loss = statistics.mean([abs(t.pnl) for t in losing_trades]) if losing_trades else 0
         
-        profit_factor = sum(t.pnl for t in winning_trades) / sum(abs(t.pnl) for t in losing_trades) if losing_trades else float('inf')
+        total_losing = sum(abs(t.pnl) for t in losing_trades)
+        profit_factor = sum(t.pnl for t in winning_trades) / total_losing if total_losing > 0 else float('inf')
         
         # Calculate holding periods
         holding_periods = []
