@@ -84,6 +84,7 @@ class BacktestResult:
     best_trade: float
     worst_trade: float
     trades: List[BacktestTrade]
+    final_capital: float = 0.0
     
     def to_dict(self) -> Dict:
         return {
@@ -104,7 +105,8 @@ class BacktestResult:
             "avg_holding_period": self.avg_holding_period,
             "best_trade": self.best_trade,
             "worst_trade": self.worst_trade,
-            "trades": [t.to_dict() for t in self.trades]
+            "trades": [t.to_dict() for t in self.trades],
+            "final_capital": self.final_capital
         }
 
 class BacktestingEngine:
@@ -426,8 +428,8 @@ class BacktestingEngine:
         if market_id in self.positions:
             return
         
-        # Calculate position size (2% risk)
-        risk_amount = self.capital * 0.02
+        # Calculate position size (2% risk based on initial capital, not compounding)
+        risk_amount = self.initial_capital * 0.02
         position_size = risk_amount / 0.1  # Assuming 10% stop loss
         
         # Create trade
@@ -453,8 +455,11 @@ class BacktestingEngine:
             "target_price": signal.get("target_price", 1.0)
         }
         
-        # Update capital
-        self.capital -= position_size * yes_price
+        # Update capital — deduct cost for long, receive proceeds for short
+        if signal["action"] in ["long_yes", "long_no"]:
+            self.capital -= position_size * yes_price
+        else:  # SHORT: receive premium for selling
+            self.capital += position_size * yes_price
         
         logger.debug(f"Opened position: {market_question} ({signal['action']})")
     
@@ -525,8 +530,11 @@ class BacktestingEngine:
         trade.pnl = pnl
         trade.pnl_percent = pnl_percent
         
-        # Update capital
-        self.capital += trade.position_size * exit_price + pnl
+        # Update capital — return proceeds for long, pay to buy back for short
+        if trade.direction in ["long_yes", "long_no"]:
+            self.capital += trade.position_size * exit_price
+        else:  # SHORT: buy back shares
+            self.capital -= trade.position_size * exit_price
         
         # Add to trades list
         self.trades.append(trade)
@@ -565,7 +573,8 @@ class BacktestingEngine:
                 avg_holding_period=0.0,
                 best_trade=0.0,
                 worst_trade=0.0,
-                trades=[]
+                trades=[],
+                final_capital=self.initial_capital
             )
         
         # Calculate metrics
@@ -576,7 +585,8 @@ class BacktestingEngine:
         win_rate = len(winning_trades) / total_trades if total_trades > 0 else 0
         
         total_pnl = sum(t.pnl for t in self.trades)
-        total_pnl_percent = sum(t.pnl_percent for t in self.trades) / total_trades if total_trades > 0 else 0
+        # Portfolio-level return, not average of per-trade percentages
+        total_pnl_percent = total_pnl / self.initial_capital if self.initial_capital > 0 else 0
         
         avg_win = statistics.mean([t.pnl for t in winning_trades]) if winning_trades else 0
         avg_loss = statistics.mean([abs(t.pnl) for t in losing_trades]) if losing_trades else 0
@@ -639,7 +649,8 @@ class BacktestingEngine:
             avg_holding_period=avg_holding_period,
             best_trade=best_trade,
             worst_trade=worst_trade,
-            trades=self.trades
+            trades=self.trades,
+            final_capital=self.capital
         )
 
 async def main():
@@ -678,7 +689,8 @@ async def main():
     print(f"Total Trades: {result.total_trades}")
     print(f"Win Rate: {result.win_rate:.1%}")
     print(f"Total P&L: ${result.total_pnl:.2f}")
-    print(f"Average P&L per Trade: {result.total_pnl_percent:.1%}")
+    print(f"Portfolio Return: {result.total_pnl_percent:.1%}")
+    print(f"Final Capital: ${result.final_capital:.2f}")
     print(f"Profit Factor: {result.profit_factor:.2f}")
     print(f"Sharpe Ratio: {result.sharpe_ratio:.2f}")
     print(f"Max Drawdown: ${result.max_drawdown:.2f}")
